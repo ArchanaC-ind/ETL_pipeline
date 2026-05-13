@@ -25,7 +25,7 @@ It reads raw sales data from a CSV file, transforms it, and loads it into a Post
 ---
 
 ## 📂 Project Structure
-etl_project/
+etl_project
 │
 ├── sales_data.csv
 ├── etl_pipeline.py
